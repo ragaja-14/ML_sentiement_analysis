@@ -31,3 +31,14 @@ In this project, three different kinds of N-grams - Unigram, Bigrams, Trigrams h
 used in the classification to compute accuracies and generate 
 different results.
 ![alt-text-1](bi_unigrams.png "Unigrams bigrams")
+![alt-text-2](Trigrams.png "Trigrams")
+### Results obtained by Comparative Study of the various classifiers based on various evaluation metrics used
+The usage of N-gram model gives better results than TFIDF approach but it is to be noted 
+that the N-gram approach requires more training time relatively.
+Among all the variety of approaches used n-gram 
+approach with n-gram range of 1 to 3 in combination with 
+SVM approach has given best results with an accuracy score 
+of 0.9011 which in terms of percentage is 90.11% and 
+performed better in comparison to the results obtained from 
+other approaches.
+![alt-text-1](result1.png "Result 1") ![alt-text-2](result2.png "Result 2")
