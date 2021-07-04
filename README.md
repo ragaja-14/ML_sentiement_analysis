@@ -1,6 +1,6 @@
 # ML_sentiement_analysis
 ##  Sentiment Analysis using Machine learning techniques
-![  ](Customer-Emotion.jpg)
+[<p align="center"><img src="Customer-Emotion.jpg" width="450" height="280" /></p>](Customer-Emotion.jpg)
 The aim of this project is to experiment with 
 different machine learning approaches to classify dataset of 
 IMDb movie reviews to perform sentiment analysis. Three 
@@ -31,7 +31,7 @@ In this project, three different kinds of N-grams - Unigram, Bigrams, Trigrams h
 used in the classification to compute accuracies and generate 
 different results.
 ![alt-text-1](bi_unigrams.png "Unigrams bigrams")
-![alt-text-2](Trigrams.png "Trigrams")
+[<p align="center"><img width="460" height="400" src="Trigrams.png"/></p>](Trigrams.png)
 ### Results obtained by Comparative Study of the various classifiers based on various evaluation metrics used
 The usage of N-gram model gives better results than TFIDF approach but it is to be noted 
 that the N-gram approach requires more training time relatively.
@@ -41,4 +41,9 @@ SVM approach has given best results with an accuracy score
 of 0.9011 which in terms of percentage is 90.11% and 
 performed better in comparison to the results obtained from 
 other approaches.
-![alt-text-1](result1.png "Result 1") ![alt-text-2](result2.png "Result 2")
+<p align="center">
+  <img  width="610" height="350" src="result1.png">
+  <img width="610" height="350" src="result2.png">
+</p>
+
+
